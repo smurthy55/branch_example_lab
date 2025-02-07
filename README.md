@@ -10,7 +10,7 @@
 
 4. Push both branches to github. 
 
-5. Now the feature is developed, we want that file to go into main. 
+5. Now the feature is developed, we want that file to be integrated into the main branch. Merge the `dev` branch into `main`. 
 
 
 
